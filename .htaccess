@@ -1,0 +1,44 @@
+# CyberX Security Configuration
+# Apache security headers and settings
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule ^$ public/ [L]
+    RewriteRule (.*) public/$1 [L]
+</IfModule>
+
+# Disable directory listing
+Options -Indexes
+
+# Hide server signature
+ServerSignature Off
+
+# Protect .env and sensitive files
+<FilesMatch "^\.env|\.gitignore|error\.log$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Security Headers
+<IfModule mod_headers.c>
+    # Prevent clickjacking
+    Header always set X-Frame-Options "SAMEORIGIN"
+    
+    # Prevent MIME-type sniffing
+    Header always set X-Content-Type-Options "nosniff"
+    
+    # Enable XSS filter in browsers
+    Header always set X-XSS-Protection "1; mode=block"
+    
+    # Referrer policy
+    Header always set Referrer-Policy "strict-origin-when-cross-origin"
+    
+    # Content Security Policy (adjust as needed)
+    # Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdnjs.cloudflare.com; font-src 'self' https://fonts.gstatic.com https://cdnjs.cloudflare.com; img-src 'self' data: https:;"
+</IfModule>
+
+# Prevent access to PHP files in uploads directory
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule ^assets/uploads/.*\.php$ - [F,L]
+</IfModule>
