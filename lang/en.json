@@ -1,0 +1,249 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+
+    "preloader": {
+        "text": "Loading",
+        "brand": "CyberX"
+    },
+
+    "nav": {
+        "home": "Home",
+        "about": "About Us",
+        "services": "Services",
+        "portfolio": "Portfolio",
+        "academy": "Academy",
+        "contact": "Contact",
+        "login": "Login",
+        "my_courses": "My Courses",
+        "free_consultation": "Free consultation"
+    },
+
+    "footer": {
+        "privacy": "Policy Privacy",
+        "copyright": "Copyright {year} © by CyberX",
+        "rights": "All rights reserved.",
+        "chat_tooltip": "Chat with us!"
+    },
+
+    "home": {
+        "hero1_headline": "Where Visions Become<br><span class=\"hero-accent\">Digital Reality</span>",
+        "hero1_sub": "From startups to students — we build, design, and teach at the highest level.",
+        "hero1_cta": "Explore Services ↓",
+
+        "hero2_headline": "Crafted with<br><span class=\"hero-accent\">Precision.</span><br>Powered by Expertise.",
+        "hero2_sub": "Software, branding, documentation &amp; learning — all under one roof.",
+        "hero2_cta": "Our Services →",
+
+        "hero3_headline": "<span class=\"hero-accent\">450+</span> Projects Delivered.<br>Zero Compromises.",
+        "hero3_sub": "Trusted by businesses and students alike — professional results, every time.",
+        "hero3_stat1_num": "600+",
+        "hero3_stat1_label": "Happy Clients",
+        "hero3_stat2_num": "450+",
+        "hero3_stat2_label": "Projects Done",
+        "hero3_stat3_num": "24+",
+        "hero3_stat3_label": "Services",
+
+        "hero4_headline": "Ready to Build<br>Something <span class=\"hero-accent\">Great?</span>",
+        "hero4_sub": "Your next big project is one conversation away. Let's make it happen.",
+        "hero4_cta1": "Start a Project →",
+        "hero4_cta2": "Explore Services",
+
+        "brand_line1": "We Don't Just Build.",
+        "brand_line2_prefix": "We Make It",
+        "brand_line2_accent": "Unforgettable.",
+        "brand_sub": "From startups to students — we build, design, and teach at the highest level.",
+
+        "trust_1": "⚡ 100+ PROJECTS DELIVERED",
+        "trust_2": "✦ 100% CONFIDENTIAL",
+        "trust_3": "⚡ ZERO COMPROMISES",
+        "trust_4": "✦ LIGHTNING FAST DELIVERY",
+        "trust_5": "⚡ STARTUPS TO STUDENTS",
+        "trust_6": "✦ PREMIUM QUALITY",
+
+        "svc_headline_prefix": "What We",
+        "svc_headline_accent": "Do Best",
+        "svc_sub": "End-to-end solutions crafted with precision. Every project, every detail, every time.",
+        "svc_view_details": "View Details →",
+        "svc_learn_more": "LEARN MORE",
+
+        "svc_card1_title": "Build Your Digital Presence",
+        "svc_card1_sub": "Web & Software Development",
+        "svc_card2_title": "Make Your Brand Unforgettable",
+        "svc_card2_sub": "Creative Design & Branding",
+        "svc_card3_title": "Excel in Your Studies",
+        "svc_card3_sub": "Academic Support & Research",
+        "svc_card4_title": "Professional Documentation",
+        "svc_card4_sub": "Business & Career Documents",
+
+        "why_headline_line1": "Built on Trust.",
+        "why_headline_line2": "Driven by Excellence.",
+        "why_sub": "We're committed to delivering results that speak louder than promises.",
+        "why1_label": "01 — SPEED",
+        "why1_title": "Lightning Fast Delivery",
+        "why1_desc": "Deadlines are sacred. We deliver every project on time — without ever cutting corners on quality.",
+        "why2_label": "02 — QUALITY",
+        "why2_title": "Expert-Grade Work",
+        "why2_desc": "Every deliverable goes through a rigorous quality check. Our professionals set the bar, then raise it.",
+        "why3_label": "03 — PRIVACY",
+        "why3_title": "100% Confidential",
+        "why3_desc": "Your work, your data, your ideas — completely protected. We never share, sell, or expose anything.",
+
+        "pf_title": "Portfolio",
+        "pf_all_btn": "All Projects →",
+
+        "cta_get": "GET",
+        "cta_free": "FREE",
+        "cta_consultation": "CONSULTATION",
+        "cta_lets_work": "LET'S WORK"
+    },
+
+    "about": {
+        "hero_line1": "We Build.",
+        "hero_line2": "We Design.",
+        "hero_line3_prefix": "We",
+        "hero_line3_accent": "Empower.",
+        "hero_sub": "From startups to students — CyberX is your all-in-one partner for software, design, documentation, and professional education.",
+
+        "num1_value": "450+",
+        "num1_label": "Projects Delivered",
+        "num2_value": "600+",
+        "num2_label": "Happy Clients",
+        "num3_value": "98%",
+        "num3_label": "Satisfaction Rate",
+
+        "story_label": "Our Story",
+        "story_title_line1": "Who",
+        "story_title_line2": "We Are",
+        "story_p1": "CyberX was founded on a simple belief: that great digital work should be accessible to everyone — startups, students, and established businesses alike. We started as a small team of developers and designers who were tired of seeing talented people held back by the high cost of quality.",
+        "story_p2": "Today, we operate across software development, UI/UX design, technical documentation, and professional education. Every project we take on is treated with the same care — whether it's a one-page website or a full enterprise system. We don't have a minimum budget. We have a minimum standard.",
+
+        "values_label": "Core Values",
+        "value1_name": "Excellence",
+        "value1_desc": "We strive for perfection in every project, delivering work that consistently exceeds expectations.",
+        "value2_name": "Integrity",
+        "value2_desc": "Radical honesty and full transparency are at the heart of every client relationship we build.",
+        "value3_name": "Innovation",
+        "value3_desc": "We embrace emerging technology and creative thinking to solve problems in ways that surprise and delight.",
+        "value4_name": "Client Focus",
+        "value4_desc": "Your success is the only metric that matters. We listen deeply, adapt quickly, and deliver precisely.",
+
+        "timeline_2020_title": "Founded",
+        "timeline_2020_desc": "A small team of developers and designers, tired of seeing great ideas fail due to the high cost of quality work.",
+        "timeline_2021_title": "First 50 Clients",
+        "timeline_2021_desc": "Zero compromises. Every project delivered on time, every client dealt with directly — no middlemen.",
+        "timeline_2022_title": "Full-Service Expansion",
+        "timeline_2022_desc": "Grew beyond development to offer UI/UX design and technical documentation under one roof.",
+        "timeline_2023_title": "CyberX Academy",
+        "timeline_2023_desc": "Launched our education arm — bringing professional-grade learning to students who couldn't access it elsewhere.",
+        "timeline_2025_title": "200+ Clients.",
+        "timeline_2025_desc": "Still the same rule: we don't have a minimum budget. We have a minimum standard.",
+        "timeline_2026_title": "600+ Clients. 9 Countries.",
+        "timeline_2026_desc": "Expanded across 9 countries — more clients, same uncompromising standard.",
+
+        "testi_headline_prefix": "Don't Take Our",
+        "testi_headline_accent": "Word",
+        "testi_headline_suffix": "for It",
+        "testi_sub": "Real words from real clients who trusted us with their projects and never looked back.",
+
+        "testi1_quote": "CyberX completely transformed the way our business presents itself online. From the branding to the website to the documentation — it was all done with incredible attention to detail and speed we had never experienced before. It felt like working with a team of 20, not a boutique agency.",
+        "testi1_name": "Faisal Al-Otaibi",
+        "testi1_role": "CEO, NovaTech Solutions — Riyadh, KSA",
+
+        "testi2_quote": "The academic support I got from CyberX Academy was exceptional. My grades improved dramatically and I finally understood concepts that had confused me for years.",
+        "testi2_name": "Noura Al-Qahtani",
+        "testi2_role": "University Student, Jeddah, KSA",
+
+        "testi3_quote": "Delivered our entire software project ahead of schedule. The quality was remarkable and the team were always just a WhatsApp message away.",
+        "testi3_name": "Khalid Al-Subaie",
+        "testi3_role": "Startup Founder, Doha, Qatar",
+
+        "testi4_quote": "My CV and portfolio were redesigned in 48 hours. I landed 3 interviews in the first week of applying.",
+        "testi4_name": "Reem Al-Dosari",
+        "testi4_role": "Marketing Graduate, Dubai, UAE",
+
+        "testi5_quote": "The brand identity package we received was world-class. Our competitors noticed the difference immediately.",
+        "testi5_name": "Sultan Al-Mansouri",
+        "testi5_role": "Business Owner, Abu Dhabi, UAE",
+
+        "partners_title_prefix": "Our",
+        "partners_title_accent": "Partners",
+        "partners_sub": "We don't just build — we grow together.<br>Every partner we work with is a relationship we invest in, not just a project we deliver",
+
+        "cta_line1": "START YOUR",
+        "cta_line2": "PROJECT TODAY",
+        "cta_line3": "LET'S WORK"
+    },
+
+    "services": {
+        "hero_headline_prefix": "Professional",
+        "hero_headline_accent": "Digital Services",
+        "hero_sub": "Tailored solutions for your digital, creative, academic, and documentation needs.",
+        "view_details": "View Details →",
+        "view_all": "View All Services",
+        "tools_tech": "Tools & Technologies We Use",
+        "cta_line1": "START YOUR",
+        "cta_line2": "PROJECT TODAY",
+        "faq_title": "Frequently Asked Questions",
+        "services_label": "services",
+        "cta_line3": "LET'S WORK"
+    },
+
+    "portfolio": {
+        "hero_headline_prefix": "Explore Our",
+        "hero_headline_accent": "Portfolio",
+        "hero_sub": "A showcase of our latest projects across development, design, and academic services.",
+        "tag_development": "Development",
+        "tag_design": "Design",
+        "tag_academic": "Academic",
+        "tag_documents": "Documents",
+        "cta_line1": "START YOUR",
+        "cta_line2": "PROJECT TODAY",
+        "cta_line3": "LET'S WORK"
+    },
+
+    "courses": {
+        "hero_headline_prefix": "Learn From",
+        "hero_headline_accent": "The Best",
+        "hero_sub": "Explore our comprehensive training programs designed to transform your skills and accelerate your career.",
+        "showing": "Showing",
+        "of": "of",
+        "courses_label": "courses",
+        "for_search": "for",
+        "no_courses_title": "No Courses Found",
+        "no_courses_sub": "Try adjusting your filters or search terms.",
+        "view_all": "View All Courses",
+        "enroll_now": "Enroll Now →",
+        "featured": "Featured",
+        "online": "Online",
+        "offline": "Offline",
+        "cta_line1": "START YOUR",
+        "cta_line2": "PROJECT TODAY",
+        "cta_line3": "LET'S WORK"
+    },
+
+    "contact": {
+        "heading_prefix": "Let's start a",
+        "heading_accent": "project together.",
+        "sub": "Whether you have a specific project in mind, need a tailored solution, or just want to explore possibilities, we're here to help.",
+        "form_title": "Send a message",
+        "interested_label": "What are you interested in?",
+        "name_label": "Full Name *",
+        "name_placeholder": "John Doe",
+        "email_label": "Email (Optional)",
+        "email_placeholder": "john@company.com",
+        "phone_label": "Phone / WhatsApp *",
+        "phone_placeholder": "+967 733388080",
+        "message_label": "Project Details / Message *",
+        "message_placeholder": "Tell us about your project, timeline, and budget...",
+        "submit_btn": "Send Request",
+        "success_title": "Message Received!",
+        "success_sub": "Thank you for reaching out. A member of our team will get back to you within 24 hours.",
+        "success_btn": "Send Another Message",
+        "requesting_solution": "Requesting Solution",
+        "selected_package": "Selected Package",
+        "email_us": "Email Us",
+        "call_whatsapp": "Call or WhatsApp",
+        "processing": "Processing..."
+    }
+}

@@ -1,0 +1,33 @@
+/*
+ * Local Fonts CSS - CyberX
+ * Uses system fonts as offline fallback for Google Fonts
+ * The fonts look similar to the original Cinzel/Inter
+ */
+
+/* Font Family Definitions with System Fallbacks */
+
+/* Cinzel-like: Elegant serif for headings */
+:root {
+    --font-cinzel: 'Cinzel', 'Palatino Linotype', 'Book Antiqua', Palatino, 'Times New Roman', Georgia, serif;
+    --font-inter: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+
+/* Apply to standard Tailwind classes */
+.font-cinzel {
+    font-family: var(--font-cinzel);
+}
+
+.font-inter {
+    font-family: var(--font-inter);
+}
+
+/* Apply to custom classes used in the site */
+.cinzel-heading {
+    font-family: var(--font-cinzel);
+    letter-spacing: 0.03em;
+}
+
+/* Ensure body uses Inter-like system font */
+body {
+    font-family: var(--font-inter);
+}
